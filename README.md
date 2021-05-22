@@ -4,7 +4,7 @@ This second programming assignment will require you to write an R function that 
 
 ***Example: Caching the Mean of a Vector***
 
-In this example we introduce the "<<- operator" which can be used to assign a value to an object in an environment that is different from the current environment. Below are two functions that are used to create a special object that stores a numeric vector and caches its mean.
+In this example we introduce the <<- operator which can be used to assign a value to an object in an environment that is different from the current environment. Below are two functions that are used to create a special object that stores a numeric vector and caches its mean.
 
 The first function, makeVector creates a special "vector", which is really a list containing a function to
 
@@ -68,7 +68,7 @@ For this assignment, assume that the matrix supplied is always invertible.
 
 In order to complete this assignment, you must do the following:
 
-1.Fork the GitHub repository containing the stub R files at to create a copy under your own account.
+1.Fork the GitHub repository containing the stub R files at https://github.com/KattaKanishka/Lexical-Scoping to create a copy under your own account.
 
 2.Clone your forked GitHub repository to your computer so that you can edit the files locally on your own machine.
 
